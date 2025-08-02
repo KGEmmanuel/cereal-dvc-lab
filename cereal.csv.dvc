@@ -1,0 +1,5 @@
+outs:
+- md5: bf7edda10e989aed84d0100f573a2ab2
+  size: 5052
+  hash: md5
+  path: cereal.csv
